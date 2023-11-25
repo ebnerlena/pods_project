@@ -1,0 +1,388 @@
+caseID,result,start_Zone,end_Zone,opponent
+75862,Incomplete,2,1,Switzerland
+75864,Incomplete,1,3,Switzerland
+75866,Incomplete,2,3,Switzerland
+75867,Incomplete,3,3,Switzerland
+75869,Incomplete,2,2,Switzerland
+758612,Out,2,3,Switzerland
+758614,Out,1,3,Switzerland
+758616,Off T,1,3,Switzerland
+758618,Blocked,2,3,Switzerland
+758620,Incomplete,2,3,Switzerland
+758621,Incomplete,3,3,Switzerland
+758623,Incomplete,2,2,Switzerland
+758625,Incomplete,1,3,Switzerland
+758627,Out,1,3,Switzerland
+758629,Out,2,3,Switzerland
+758631,Incomplete,2,3,Switzerland
+758633,Incomplete,1,2,Switzerland
+758637,Out,1,2,Switzerland
+758639,Incomplete,2,3,Switzerland
+758641,Incomplete,1,2,Switzerland
+758644,Incomplete,2,3,Switzerland
+758646,Incomplete,1,3,Switzerland
+758648,Out,1,3,Switzerland
+758650,Incomplete,2,2,Switzerland
+758652,Incomplete,1,2,Switzerland
+758653,Saved,2,3,Switzerland
+758655,Incomplete,2,2,Switzerland
+758657,Out,1,2,Switzerland
+758660,Incomplete,1,2,Switzerland
+758662,Incomplete,1,2,Switzerland
+758663,Incomplete,2,3,Switzerland
+758666,Incomplete,1,2,Switzerland
+758668,Out,1,1,Switzerland
+758670,Blocked,3,3,Switzerland
+758671,Off T,3,3,Switzerland
+758673,Incomplete,2,3,Switzerland
+758677,Incomplete,1,3,Switzerland
+758680,Incomplete,2,3,Switzerland
+758681,Incomplete,2,3,Switzerland
+758682,Incomplete,3,3,Switzerland
+758684,Off T,2,3,Switzerland
+758686,Incomplete,2,2,Switzerland
+758693,Incomplete,2,None,Switzerland
+758696,Incomplete,1,2,Switzerland
+758697,Incomplete,2,2,Switzerland
+758698,Incomplete,2,3,Switzerland
+758699,Incomplete,3,3,Switzerland
+7586100,Incomplete,3,3,Switzerland
+7586102,Incomplete,1,2,Switzerland
+7586104,Out,2,3,Switzerland
+7586106,Incomplete,1,2,Switzerland
+7586107,Incomplete,2,3,Switzerland
+7586110,Incomplete,1,2,Switzerland
+7586111,Blocked,3,3,Switzerland
+7586113,Incomplete,1,1,Switzerland
+7586114,Incomplete,1,2,Switzerland
+7586116,Goal,1,3,Switzerland
+7586118,Out,2,3,Switzerland
+7586120,Off T,2,3,Switzerland
+7586122,Incomplete,1,3,Switzerland
+7586127,Out,1,2,Switzerland
+7586129,Incomplete,1,2,Switzerland
+7586133,Injury Clearance,1,3,Switzerland
+7586135,Incomplete,3,3,Switzerland
+7586136,Incomplete,3,3,Switzerland
+7586142,Incomplete,1,3,Switzerland
+7586144,Incomplete,1,2,Switzerland
+7586146,Incomplete,1,3,Switzerland
+7586149,Incomplete,1,3,Switzerland
+7586151,Incomplete,1,3,Switzerland
+7586152,Incomplete,3,3,Switzerland
+7586153,Out,3,3,Switzerland
+7586156,Incomplete,1,1,Switzerland
+7586160,Incomplete,2,2,Switzerland
+7586162,Incomplete,1,3,Switzerland
+7586163,Saved,3,3,Switzerland
+75662,Incomplete,2,3,Mexico
+75663,Out,3,3,Mexico
+75664,Out,2,2,Mexico
+75666,Incomplete,1,3,Mexico
+75668,Incomplete,2,3,Mexico
+75669,Saved,3,3,Mexico
+756611,Incomplete,2,3,Mexico
+756617,Out,2,3,Mexico
+756619,Incomplete,1,1,Mexico
+756620,Incomplete,1,3,Mexico
+756621,Off T,3,3,Mexico
+756623,Incomplete,2,2,Mexico
+756625,Incomplete,1,3,Mexico
+756628,Off T,2,3,Mexico
+756630,Out,1,3,Mexico
+756632,Incomplete,3,3,Mexico
+756633,Off T,3,3,Mexico
+756635,Incomplete,2,3,Mexico
+756638,Incomplete,2,2,Mexico
+756640,Incomplete,1,2,Mexico
+756644,Incomplete,1,3,Mexico
+756645,Incomplete,2,3,Mexico
+756647,Incomplete,2,2,Mexico
+756648,Incomplete,2,3,Mexico
+756651,Incomplete,2,2,Mexico
+756652,Blocked,2,3,Mexico
+756653,Saved,3,3,Mexico
+756654,Out,3,3,Mexico
+756658,Off T,2,3,Mexico
+756661,Incomplete,2,2,Mexico
+756664,Incomplete,2,3,Mexico
+756667,Incomplete,1,3,Mexico
+756670,Incomplete,1,3,Mexico
+756673,Incomplete,1,2,Mexico
+756675,Incomplete,2,2,Mexico
+756676,Out,2,3,Mexico
+756679,Incomplete,2,2,Mexico
+756681,Incomplete,1,2,Mexico
+756685,Off T,1,3,Mexico
+756687,Incomplete,2,3,Mexico
+756689,Incomplete,2,2,Mexico
+756690,Out,2,3,Mexico
+756692,Incomplete,1,3,Mexico
+756694,Incomplete,2,2,Mexico
+756696,Incomplete,1,2,Mexico
+756699,Goal,2,3,Mexico
+7566102,Off T,2,3,Mexico
+7566105,Off T,1,3,Mexico
+7566109,Saved,2,3,Mexico
+7566112,Incomplete,1,1,Mexico
+7566114,Incomplete,2,3,Mexico
+7566115,Goal,3,3,Mexico
+7566117,Incomplete,2,2,Mexico
+7566121,Incomplete,1,3,Mexico
+7566126,Incomplete,1,2,Mexico
+7566128,Incomplete,2,3,Mexico
+7566130,Incomplete,1,2,Mexico
+7566132,Incomplete,1,2,Mexico
+7566134,Incomplete,1,3,Mexico
+7566135,Incomplete,3,3,Mexico
+7566136,Incomplete,3,3,Mexico
+7566140,Incomplete,1,2,Mexico
+7566142,Incomplete,1,2,Mexico
+7566144,Incomplete,2,2,Mexico
+7566146,Incomplete,1,3,Mexico
+7566150,Incomplete,1,1,Mexico
+7566151,Incomplete,2,2,Mexico
+7566154,Incomplete,1,None,Mexico
+7566155,Incomplete,1,2,Mexico
+7566156,Incomplete,2,3,Mexico
+7566160,Incomplete,1,3,Mexico
+7566163,Incomplete,1,2,Mexico
+7566166,Incomplete,1,2,Mexico
+7566168,Incomplete,1,None,Mexico
+7566170,Incomplete,1,3,Mexico
+75384,Incomplete,1,1,South Korea
+75385,Incomplete,2,3,South Korea
+75387,Incomplete,2,3,South Korea
+75389,Incomplete,1,2,South Korea
+753814,Out,1,3,South Korea
+753820,Incomplete,1,3,South Korea
+753827,Incomplete,1,1,South Korea
+753828,Incomplete,2,2,South Korea
+753829,Blocked,2,3,South Korea
+753833,Incomplete,2,2,South Korea
+753834,Incomplete,2,3,South Korea
+753836,Incomplete,1,3,South Korea
+753837,Out,3,3,South Korea
+753839,Incomplete,2,3,South Korea
+753841,Incomplete,2,2,South Korea
+753842,Incomplete,2,3,South Korea
+753843,Saved,3,3,South Korea
+753844,Off T,3,3,South Korea
+753846,Incomplete,2,3,South Korea
+753847,Pass Offside,3,3,South Korea
+753849,Incomplete,1,3,South Korea
+753850,Incomplete,3,3,South Korea
+753852,Incomplete,3,3,South Korea
+753853,Incomplete,3,3,South Korea
+753854,Blocked,3,3,South Korea
+753855,Incomplete,3,3,South Korea
+753857,Incomplete,1,3,South Korea
+753860,Pass Offside,1,3,South Korea
+753863,Incomplete,1,1,South Korea
+753865,Incomplete,2,3,South Korea
+753867,Incomplete,2,3,South Korea
+753868,Incomplete,3,3,South Korea
+753870,Incomplete,3,2,South Korea
+753872,Incomplete,1,2,South Korea
+753874,Blocked,1,3,South Korea
+753876,Incomplete,1,1,South Korea
+753877,Incomplete,1,3,South Korea
+753879,Incomplete,2,2,South Korea
+753881,Incomplete,1,2,South Korea
+753882,Incomplete,2,2,South Korea
+753884,Incomplete,2,3,South Korea
+753885,Blocked,3,3,South Korea
+753887,Incomplete,1,2,South Korea
+753890,Incomplete,1,3,South Korea
+753892,Blocked,3,3,South Korea
+753893,Incomplete,3,3,South Korea
+753894,Incomplete,3,3,South Korea
+753896,Incomplete,2,3,South Korea
+753897,Incomplete,2,3,South Korea
+753898,Incomplete,3,3,South Korea
+753899,Incomplete,1,2,South Korea
+7538102,Incomplete,1,2,South Korea
+7538104,Off T,2,3,South Korea
+7538106,Incomplete,2,3,South Korea
+7538108,Incomplete,1,3,South Korea
+7538111,Incomplete,2,2,South Korea
+7538113,Incomplete,1,2,South Korea
+7538114,Incomplete,1,3,South Korea
+7538117,Incomplete,1,2,South Korea
+7538118,Incomplete,2,3,South Korea
+7538119,Saved,3,3,South Korea
+7538121,Incomplete,2,3,South Korea
+7538122,Incomplete,3,3,South Korea
+7538126,Incomplete,2,3,South Korea
+7538128,Incomplete,2,3,South Korea
+7538129,Goal,3,3,South Korea
+7538131,Incomplete,2,3,South Korea
+7538133,Incomplete,2,2,South Korea
+7538135,Blocked,2,3,South Korea
+7538136,Incomplete,3,3,South Korea
+7538138,Incomplete,3,None,South Korea
+7538139,Incomplete,3,3,South Korea
+7538141,Incomplete,2,2,South Korea
+7538143,Incomplete,1,3,South Korea
+7538146,Injury Clearance,2,3,South Korea
+7538148,Incomplete,2,2,South Korea
+7538149,Incomplete,2,3,South Korea
+7538152,Incomplete,1,1,South Korea
+7538154,Incomplete,2,3,South Korea
+7538161,Incomplete,2,2,South Korea
+7538165,Incomplete,1,1,South Korea
+7538166,Incomplete,1,2,South Korea
+7538167,Incomplete,2,3,South Korea
+7538169,Incomplete,2,3,South Korea
+7538174,Incomplete,1,2,South Korea
+7538176,Incomplete,2,3,South Korea
+7538179,Incomplete,1,3,South Korea
+86512,Incomplete,2,3,England
+86514,Out,2,2,England
+86517,Incomplete,1,2,England
+86519,Out,2,3,England
+865111,Incomplete,2,3,England
+865114,Incomplete,1,3,England
+865117,Incomplete,1,1,England
+865119,Incomplete,2,3,England
+865120,Incomplete,3,3,England
+865122,Incomplete,2,3,England
+865124,Incomplete,2,3,England
+865127,Incomplete,1,2,England
+865128,Out,2,3,England
+865130,Off T,3,3,England
+865132,Incomplete,1,2,England
+865134,Incomplete,1,3,England
+865135,Incomplete,1,3,England
+865137,Incomplete,2,3,England
+865139,Out,1,2,England
+865140,Out,2,3,England
+865142,Incomplete,1,3,England
+865143,Incomplete,3,3,England
+865145,Out,1,3,England
+865147,Incomplete,1,2,England
+865148,Incomplete,2,3,England
+865150,Out,1,2,England
+865153,Pass Offside,1,3,England
+865155,Out,2,3,England
+865157,Incomplete,1,2,England
+865161,Out,2,3,England
+865163,Out,1,2,England
+865165,Incomplete,2,3,England
+865169,Incomplete,2,3,England
+865170,Incomplete,2,3,England
+865171,Incomplete,2,3,England
+865173,Incomplete,2,3,England
+865174,Incomplete,2,2,England
+865176,Incomplete,1,2,England
+865179,Incomplete,2,3,England
+865181,Incomplete,1,2,England
+865182,Incomplete,2,3,England
+865184,Incomplete,1,2,England
+865186,Incomplete,1,2,England
+865191,Incomplete,1,3,England
+865192,Saved,3,3,England
+865194,Incomplete,1,2,England
+865197,Incomplete,2,2,England
+865199,Incomplete,1,2,England
+8651101,Off T,2,3,England
+8651103,Incomplete,1,2,England
+8651106,Incomplete,2,2,England
+8651108,Incomplete,1,None,England
+8651110,Incomplete,2,2,England
+8651114,Incomplete,2,2,England
+8651116,Blocked,1,3,England
+8651117,Off T,3,3,England
+8651119,Incomplete,1,3,England
+8651121,Incomplete,2,3,England
+8651123,Incomplete,1,2,England
+8651126,Out,2,3,England
+8651129,Incomplete,2,2,England
+8651132,Incomplete,1,2,England
+8651133,Incomplete,1,3,England
+8651135,Saved,1,3,England
+8651136,Incomplete,3,3,England
+8651138,Incomplete,2,2,England
+8651140,Incomplete,1,3,England
+8651142,Out,2,2,England
+8651144,Incomplete,2,2,England
+8651146,Incomplete,1,2,England
+8651147,Incomplete,2,3,England
+8651150,Incomplete,2,2,England
+8651153,Incomplete,1,3,England
+8651155,Incomplete,2,3,England
+8651160,Incomplete,2,3,England
+8651162,Incomplete,1,2,England
+8651164,Incomplete,2,2,England
+8651165,Incomplete,2,3,England
+8651166,Off T,3,3,England
+8651168,Pass Offside,1,3,England
+8651170,Incomplete,1,3,England
+8651173,Incomplete,1,3,England
+8651176,Incomplete,1,3,England
+75512,Incomplete,2,3,Germany
+75514,Incomplete,1,1,Germany
+75517,Incomplete,1,2,Germany
+755110,Incomplete,1,2,Germany
+755112,Incomplete,1,2,Germany
+755114,Incomplete,3,None,Germany
+755116,Incomplete,1,3,Germany
+755121,Saved,2,3,Germany
+755123,Incomplete,3,3,Germany
+755125,Incomplete,3,3,Germany
+755126,Incomplete,3,3,Germany
+755129,Blocked,2,3,Germany
+755130,Incomplete,3,3,Germany
+755132,Incomplete,1,3,Germany
+755134,Incomplete,1,2,Germany
+755136,Incomplete,2,3,Germany
+755138,Incomplete,1,1,Germany
+755140,Injury Clearance,2,3,Germany
+755142,Incomplete,1,3,Germany
+755143,Incomplete,3,3,Germany
+755144,Incomplete,3,3,Germany
+755147,Incomplete,1,2,Germany
+755149,Goal,2,3,Germany
+755152,Incomplete,2,None,Germany
+755153,Incomplete,2,3,Germany
+755155,Incomplete,3,3,Germany
+755160,Incomplete,2,3,Germany
+755163,Out,1,3,Germany
+755166,Incomplete,1,3,Germany
+755168,Incomplete,1,3,Germany
+755170,Incomplete,1,3,Germany
+755172,Incomplete,1,2,Germany
+755173,Saved,3,3,Germany
+755177,Incomplete,1,2,Germany
+755181,Incomplete,1,2,Germany
+755182,Incomplete,2,3,Germany
+755184,Incomplete,1,2,Germany
+755187,Incomplete,1,2,Germany
+755189,Incomplete,1,3,Germany
+755192,Incomplete,1,3,Germany
+755195,Incomplete,3,3,Germany
+755199,Incomplete,1,3,Germany
+7551101,Out,2,3,Germany
+7551103,Incomplete,1,3,Germany
+7551105,Incomplete,1,3,Germany
+7551107,Incomplete,1,2,Germany
+7551111,Incomplete,1,2,Germany
+7551114,Incomplete,1,3,Germany
+7551116,Incomplete,1,3,Germany
+7551118,Incomplete,2,3,Germany
+7551120,Incomplete,1,1,Germany
+7551123,Incomplete,1,3,Germany
+7551124,Incomplete,3,3,Germany
+7551125,Saved,3,3,Germany
+7551127,Incomplete,1,3,Germany
+7551129,Incomplete,1,2,Germany
+7551133,Incomplete,2,3,Germany
+7551134,Saved,3,3,Germany
+7551135,Out,3,3,Germany
+7551138,Pass Offside,1,3,Germany
+7551141,Incomplete,1,None,Germany
+7551144,Incomplete,2,None,Germany
+7551148,Incomplete,1,2,Germany
+7551151,Incomplete,2,3,Germany
+7551153,Saved,3,3,Germany
+7551156,Incomplete,3,3,Germany

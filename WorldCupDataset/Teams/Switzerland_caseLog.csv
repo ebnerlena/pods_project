@@ -1,0 +1,354 @@
+caseID,result,start_Zone,end_Zone,opponent
+75863,Off T,2,3,Sweden
+75865,Incomplete,1,2,Sweden
+75868,Incomplete,2,None,Sweden
+758610,Incomplete,1,3,Sweden
+758611,Incomplete,3,2,Sweden
+758613,Incomplete,1,3,Sweden
+758615,Saved,1,3,Sweden
+758617,Incomplete,1,2,Sweden
+758619,Out,1,3,Sweden
+758622,Out,1,2,Sweden
+758624,Incomplete,2,3,Sweden
+758626,Out,1,3,Sweden
+758628,Out,1,2,Sweden
+758630,Incomplete,1,2,Sweden
+758632,Out,1,3,Sweden
+758634,Incomplete,2,2,Sweden
+758635,Incomplete,2,3,Sweden
+758636,Incomplete,3,3,Sweden
+758638,Incomplete,1,2,Sweden
+758640,Incomplete,1,3,Sweden
+758642,Incomplete,2,2,Sweden
+758643,Incomplete,2,2,Sweden
+758645,Off T,1,3,Sweden
+758647,Incomplete,1,3,Sweden
+758649,Incomplete,1,2,Sweden
+758651,Incomplete,2,3,Sweden
+758654,Incomplete,1,2,Sweden
+758656,Incomplete,3,3,Sweden
+758658,Incomplete,2,3,Sweden
+758659,Out,2,3,Sweden
+758661,Off T,2,3,Sweden
+758664,Incomplete,1,3,Sweden
+758665,Blocked,3,3,Sweden
+758667,Incomplete,2,3,Sweden
+758669,Off T,3,2,Sweden
+758672,Incomplete,1,2,Sweden
+758674,Incomplete,1,2,Sweden
+758675,Incomplete,1,2,Sweden
+758676,Incomplete,3,3,Sweden
+758678,Incomplete,1,3,Sweden
+758679,Incomplete,2,2,Sweden
+758683,Incomplete,1,2,Sweden
+758685,Incomplete,2,3,Sweden
+758687,Incomplete,2,2,Sweden
+758688,Incomplete,1,3,Sweden
+758689,Incomplete,3,3,Sweden
+758690,Blocked,3,3,Sweden
+758691,Incomplete,3,3,Sweden
+758692,Incomplete,3,3,Sweden
+758694,Incomplete,2,3,Sweden
+758695,Incomplete,3,3,Sweden
+7586101,Incomplete,1,3,Sweden
+7586103,Incomplete,2,2,Sweden
+7586105,Incomplete,1,3,Sweden
+7586108,Incomplete,1,3,Sweden
+7586109,Incomplete,3,3,Sweden
+7586112,Incomplete,1,3,Sweden
+7586115,Incomplete,3,3,Sweden
+7586117,Incomplete,2,2,Sweden
+7586119,Incomplete,1,2,Sweden
+7586121,Saved,3,3,Sweden
+7586123,Incomplete,2,3,Sweden
+7586124,Blocked,3,3,Sweden
+7586125,Incomplete,3,3,Sweden
+7586126,Blocked,3,3,Sweden
+7586128,Incomplete,2,3,Sweden
+7586130,Incomplete,2,2,Sweden
+7586131,Incomplete,3,3,Sweden
+7586132,Out,3,3,Sweden
+7586134,Injury Clearance,2,1,Sweden
+7586137,Incomplete,1,1,Sweden
+7586138,Incomplete,1,3,Sweden
+7586139,Blocked,3,3,Sweden
+7586140,Blocked,3,3,Sweden
+7586141,Out,3,3,Sweden
+7586143,Incomplete,1,3,Sweden
+7586145,Incomplete,3,3,Sweden
+7586147,Incomplete,1,3,Sweden
+7586148,Blocked,3,3,Sweden
+7586150,Incomplete,1,3,Sweden
+7586154,Incomplete,1,3,Sweden
+7586155,Incomplete,3,3,Sweden
+7586157,Saved,3,3,Sweden
+7586159,Incomplete,1,2,Sweden
+7586161,Incomplete,2,3,Sweden
+75682,Incomplete,2,3,Costa Rica
+75683,Out,3,3,Costa Rica
+75685,Incomplete,1,2,Costa Rica
+75687,Blocked,2,2,Costa Rica
+75689,Incomplete,1,2,Costa Rica
+756812,Incomplete,1,3,Costa Rica
+756814,Incomplete,1,2,Costa Rica
+756816,Incomplete,2,3,Costa Rica
+756819,Incomplete,1,2,Costa Rica
+756821,Incomplete,2,2,Costa Rica
+756823,Incomplete,1,2,Costa Rica
+756825,Incomplete,1,2,Costa Rica
+756827,Incomplete,1,3,Costa Rica
+756830,Incomplete,2,3,Costa Rica
+756832,Incomplete,2,3,Costa Rica
+756835,Out,1,3,Costa Rica
+756838,Out,1,2,Costa Rica
+756840,Incomplete,2,3,Costa Rica
+756843,Incomplete,1,2,Costa Rica
+756845,Incomplete,1,2,Costa Rica
+756847,Incomplete,1,2,Costa Rica
+756848,Incomplete,2,2,Costa Rica
+756850,Incomplete,2,2,Costa Rica
+756851,Incomplete,2,2,Costa Rica
+756853,Incomplete,1,3,Costa Rica
+756854,Incomplete,3,2,Costa Rica
+756857,Incomplete,1,3,Costa Rica
+756859,Incomplete,2,3,Costa Rica
+756860,Incomplete,2,3,Costa Rica
+756862,Goal,2,3,Costa Rica
+756864,Blocked,1,3,Costa Rica
+756865,Incomplete,3,3,Costa Rica
+756867,Incomplete,2,3,Costa Rica
+756870,Incomplete,1,2,Costa Rica
+756872,Incomplete,1,2,Costa Rica
+756874,Incomplete,3,3,Costa Rica
+756876,Blocked,2,3,Costa Rica
+756877,Incomplete,3,3,Costa Rica
+756879,Incomplete,2,3,Costa Rica
+756882,Incomplete,2,3,Costa Rica
+756883,Incomplete,2,2,Costa Rica
+756885,Incomplete,1,1,Costa Rica
+756886,Incomplete,1,3,Costa Rica
+756888,Incomplete,2,3,Costa Rica
+756890,Incomplete,2,3,Costa Rica
+756891,Out,3,3,Costa Rica
+756893,Incomplete,2,3,Costa Rica
+756896,Incomplete,1,3,Costa Rica
+756897,Incomplete,3,3,Costa Rica
+7568101,Off T,1,3,Costa Rica
+7568102,Out,2,2,Costa Rica
+7568105,Incomplete,1,3,Costa Rica
+7568106,Saved,3,3,Costa Rica
+7568107,Out,1,3,Costa Rica
+7568109,Incomplete,1,2,Costa Rica
+7568112,Incomplete,1,2,Costa Rica
+7568113,Pass Offside,2,3,Costa Rica
+7568115,Incomplete,1,2,Costa Rica
+7568116,Incomplete,2,3,Costa Rica
+7568117,Incomplete,3,3,Costa Rica
+7568119,Incomplete,1,1,Costa Rica
+7568123,Incomplete,1,2,Costa Rica
+7568127,Incomplete,1,2,Costa Rica
+7568129,Incomplete,1,3,Costa Rica
+7568130,Incomplete,3,3,Costa Rica
+7568131,Incomplete,3,3,Costa Rica
+7568133,Blocked,2,3,Costa Rica
+7568134,Incomplete,2,3,Costa Rica
+7568136,Incomplete,1,2,Costa Rica
+7568137,Incomplete,2,3,Costa Rica
+7568139,Incomplete,1,1,Costa Rica
+7568141,Incomplete,2,3,Costa Rica
+7568143,Incomplete,2,3,Costa Rica
+7568144,Incomplete,3,2,Costa Rica
+7568146,Incomplete,1,2,Costa Rica
+7568147,Incomplete,2,3,Costa Rica
+7568150,Incomplete,1,2,Costa Rica
+7568152,Incomplete,1,3,Costa Rica
+7568154,Out,2,2,Costa Rica
+7568156,Goal,2,3,Costa Rica
+7568158,Incomplete,2,3,Costa Rica
+7568161,Incomplete,1,3,Costa Rica
+75502,Out,2,3,Serbia
+75504,Incomplete,1,1,Serbia
+75506,Incomplete,1,1,Serbia
+75507,Off T,2,3,Serbia
+755010,Incomplete,1,1,Serbia
+755012,Pass Offside,2,3,Serbia
+755013,Incomplete,3,3,Serbia
+755014,Incomplete,3,3,Serbia
+755015,Incomplete,3,3,Serbia
+755016,Blocked,3,3,Serbia
+755018,Off T,2,3,Serbia
+755021,Incomplete,1,3,Serbia
+755023,Incomplete,1,3,Serbia
+755025,Incomplete,2,2,Serbia
+755027,Out,1,2,Serbia
+755029,Incomplete,1,2,Serbia
+755031,Incomplete,1,2,Serbia
+755033,Incomplete,1,2,Serbia
+755035,Incomplete,1,3,Serbia
+755037,Incomplete,2,3,Serbia
+755039,Incomplete,2,2,Serbia
+755041,Out,1,3,Serbia
+755044,Incomplete,1,2,Serbia
+755048,Incomplete,1,1,Serbia
+755049,Blocked,1,3,Serbia
+755052,Incomplete,2,3,Serbia
+755054,Incomplete,1,3,Serbia
+755055,Off T,3,3,Serbia
+755057,Incomplete,1,2,Serbia
+755059,Incomplete,2,3,Serbia
+755061,Saved,2,3,Serbia
+755062,Off T,3,3,Serbia
+755064,Incomplete,1,3,Serbia
+755066,Incomplete,2,2,Serbia
+755067,Incomplete,2,2,Serbia
+755069,Incomplete,2,3,Serbia
+755071,Incomplete,1,2,Serbia
+755073,Incomplete,1,1,Serbia
+755076,Incomplete,1,1,Serbia
+755078,Incomplete,1,3,Serbia
+755080,Incomplete,2,2,Serbia
+755081,Incomplete,2,3,Serbia
+755083,Out,2,3,Serbia
+755086,Incomplete,1,2,Serbia
+755089,Incomplete,1,3,Serbia
+755091,Incomplete,1,3,Serbia
+755094,Incomplete,2,3,Serbia
+755096,Incomplete,2,2,Serbia
+755097,Incomplete,3,3,Serbia
+755099,Incomplete,1,1,Serbia
+7550101,Incomplete,1,3,Serbia
+7550102,Pass Offside,3,3,Serbia
+7550105,Incomplete,1,3,Serbia
+7550107,Incomplete,2,1,Serbia
+7550108,Incomplete,1,1,Serbia
+7550111,Blocked then Goal,1,3,Serbia
+7550112,Incomplete,1,3,Serbia
+7550114,Incomplete,1,3,Serbia
+7550116,Incomplete,1,1,Serbia
+7550117,Incomplete,2,2,Serbia
+7550120,Incomplete,1,3,Serbia
+7550121,Incomplete,3,3,Serbia
+7550122,Incomplete,3,3,Serbia
+7550124,Incomplete,3,3,Serbia
+7550126,Incomplete,2,2,Serbia
+7550128,Incomplete,2,2,Serbia
+7550130,Incomplete,1,2,Serbia
+7550131,Incomplete,2,3,Serbia
+7550133,Out,1,3,Serbia
+7550136,Incomplete,2,3,Serbia
+7550138,Incomplete,1,1,Serbia
+7550140,Incomplete,2,2,Serbia
+7550142,Incomplete,1,2,Serbia
+7550144,Incomplete,1,3,Serbia
+7550147,Incomplete,1,3,Serbia
+7550150,Incomplete,1,2,Serbia
+7550151,Incomplete,2,3,Serbia
+7550155,Pass Offside,1,3,Serbia
+7550159,Incomplete,1,2,Serbia
+7550161,Incomplete,1,2,Serbia
+7550164,Incomplete,1,None,Serbia
+7550166,Incomplete,1,2,Serbia
+7550168,Out,2,3,Serbia
+7550170,Saved,1,3,Serbia
+7550172,Incomplete,3,3,Serbia
+7550173,Off T,3,3,Serbia
+7550175,Saved,2,3,Serbia
+7550177,Incomplete,2,2,Serbia
+7550178,Blocked,3,3,Serbia
+7550179,Blocked,3,3,Serbia
+7550180,Incomplete,3,3,Serbia
+7550183,Incomplete,1,3,Serbia
+7550185,Incomplete,2,3,Serbia
+7550186,Incomplete,3,3,Serbia
+7550188,Incomplete,2,2,Serbia
+7550190,Goal,1,3,Serbia
+7550191,Incomplete,2,3,Serbia
+7550193,Incomplete,3,2,Serbia
+7550195,Incomplete,2,3,Serbia
+7550196,Incomplete,3,3,Serbia
+7550198,Off T,1,3,Serbia
+75333,Incomplete,2,2,Brazil
+75335,Incomplete,1,3,Brazil
+75337,Incomplete,3,3,Brazil
+75338,Incomplete,3,2,Brazil
+75339,Out,2,3,Brazil
+753311,Off T,1,3,Brazil
+753313,Incomplete,2,2,Brazil
+753316,Incomplete,1,2,Brazil
+753319,Incomplete,2,3,Brazil
+753321,Incomplete,1,3,Brazil
+753323,Incomplete,1,3,Brazil
+753324,Incomplete,3,3,Brazil
+753326,Out,1,2,Brazil
+753328,Incomplete,1,2,Brazil
+753330,Incomplete,1,2,Brazil
+753332,Incomplete,1,2,Brazil
+753335,Out,1,3,Brazil
+753337,Incomplete,1,3,Brazil
+753340,Incomplete,1,2,Brazil
+753342,Out,2,3,Brazil
+753344,Incomplete,2,3,Brazil
+753346,Incomplete,2,3,Brazil
+753347,Incomplete,3,3,Brazil
+753350,Out,1,3,Brazil
+753352,Incomplete,1,3,Brazil
+753353,Incomplete,3,3,Brazil
+753355,Incomplete,2,3,Brazil
+753356,Incomplete,3,3,Brazil
+753360,Incomplete,1,3,Brazil
+753362,Incomplete,2,3,Brazil
+753364,Incomplete,2,3,Brazil
+753366,Incomplete,1,3,Brazil
+753368,Incomplete,2,3,Brazil
+753369,Blocked,2,3,Brazil
+753371,Incomplete,2,3,Brazil
+753373,Incomplete,1,1,Brazil
+753374,Out,1,3,Brazil
+753376,Out,3,3,Brazil
+753377,Out,2,3,Brazil
+753381,Incomplete,1,2,Brazil
+753382,Incomplete,2,3,Brazil
+753383,Off T,2,3,Brazil
+753385,Incomplete,2,2,Brazil
+753386,Incomplete,2,2,Brazil
+753388,Incomplete,1,3,Brazil
+753390,Incomplete,3,3,Brazil
+753391,Goal,3,3,Brazil
+753393,Incomplete,2,3,Brazil
+753394,Incomplete,3,3,Brazil
+753396,Out,3,3,Brazil
+753399,Incomplete,3,None,Brazil
+7533102,Incomplete,3,3,Brazil
+7533103,Incomplete,3,3,Brazil
+7533108,Incomplete,1,3,Brazil
+7533110,Incomplete,2,3,Brazil
+7533111,Incomplete,3,3,Brazil
+7533113,Incomplete,1,2,Brazil
+7533115,Incomplete,1,2,Brazil
+7533116,Incomplete,3,3,Brazil
+7533118,Incomplete,2,2,Brazil
+7533120,Incomplete,2,3,Brazil
+7533121,Incomplete,3,2,Brazil
+7533125,Incomplete,1,3,Brazil
+7533128,Incomplete,2,3,Brazil
+7533130,Saved,3,3,Brazil
+7533134,Incomplete,1,3,Brazil
+7533136,Incomplete,1,3,Brazil
+7533138,Incomplete,1,2,Brazil
+7533140,Incomplete,1,2,Brazil
+7533142,Incomplete,1,3,Brazil
+7533145,Incomplete,1,2,Brazil
+7533149,Incomplete,1,2,Brazil
+7533151,Incomplete,1,3,Brazil
+7533152,Incomplete,3,3,Brazil
+7533154,Incomplete,3,3,Brazil
+7533157,Incomplete,1,3,Brazil
+7533159,Incomplete,1,2,Brazil
+7533161,Incomplete,2,None,Brazil
+7533164,Incomplete,2,None,Brazil
+7533166,Off T,3,3,Brazil
+7533169,Incomplete,1,2,Brazil
+7533172,Incomplete,2,3,Brazil
+7533173,Incomplete,1,2,Brazil
+7533175,Incomplete,1,2,Brazil
+7533176,Incomplete,2,3,Brazil

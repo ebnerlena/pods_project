@@ -1,0 +1,256 @@
+caseID,result,start_Zone,end_Zone,opponent
+75592,Incomplete,2,3,Saudi Arabia
+75593,Incomplete,3,3,Saudi Arabia
+75595,Incomplete,2,3,Saudi Arabia
+75597,Incomplete,1,3,Saudi Arabia
+75599,Incomplete,1,1,Saudi Arabia
+755910,Incomplete,2,3,Saudi Arabia
+755912,Incomplete,2,3,Saudi Arabia
+755914,Incomplete,1,3,Saudi Arabia
+755917,Incomplete,1,3,Saudi Arabia
+755919,Incomplete,2,3,Saudi Arabia
+755921,Out,1,1,Saudi Arabia
+755923,Incomplete,1,3,Saudi Arabia
+755925,Incomplete,1,3,Saudi Arabia
+755929,Pass Offside,1,3,Saudi Arabia
+755931,Incomplete,1,3,Saudi Arabia
+755933,Goal,2,3,Saudi Arabia
+755936,Off T,1,3,Saudi Arabia
+755938,Incomplete,1,1,Saudi Arabia
+755940,Incomplete,1,2,Saudi Arabia
+755942,Incomplete,1,2,Saudi Arabia
+755943,Incomplete,2,3,Saudi Arabia
+755944,Incomplete,3,3,Saudi Arabia
+755947,Incomplete,1,3,Saudi Arabia
+755949,Off T,1,3,Saudi Arabia
+755951,Off T,2,3,Saudi Arabia
+755954,Incomplete,1,2,Saudi Arabia
+755956,Incomplete,1,2,Saudi Arabia
+755959,Incomplete,2,2,Saudi Arabia
+755965,Incomplete,1,2,Saudi Arabia
+755966,Incomplete,2,3,Saudi Arabia
+755967,Incomplete,3,3,Saudi Arabia
+755969,Incomplete,2,3,Saudi Arabia
+755971,Incomplete,1,1,Saudi Arabia
+755975,Incomplete,2,3,Saudi Arabia
+755981,Out,1,2,Saudi Arabia
+755983,Incomplete,1,1,Saudi Arabia
+755985,Incomplete,1,3,Saudi Arabia
+755987,Incomplete,1,2,Saudi Arabia
+755989,Incomplete,2,3,Saudi Arabia
+755990,Incomplete,3,3,Saudi Arabia
+755991,Off T,3,3,Saudi Arabia
+755993,Incomplete,1,1,Saudi Arabia
+755995,Incomplete,3,3,Saudi Arabia
+755997,Incomplete,1,1,Saudi Arabia
+755998,Incomplete,2,3,Saudi Arabia
+7559100,Incomplete,1,3,Saudi Arabia
+7559105,Incomplete,1,3,Saudi Arabia
+7559107,Incomplete,1,2,Saudi Arabia
+7559108,Incomplete,1,3,Saudi Arabia
+7559109,Incomplete,3,3,Saudi Arabia
+7559111,Incomplete,1,2,Saudi Arabia
+7559112,Incomplete,2,2,Saudi Arabia
+7559115,Off T,1,3,Saudi Arabia
+7559117,Incomplete,3,None,Saudi Arabia
+7559119,Incomplete,2,2,Saudi Arabia
+7559121,Incomplete,2,2,Saudi Arabia
+7559123,Incomplete,1,3,Saudi Arabia
+7559125,Incomplete,2,3,Saudi Arabia
+7559127,Blocked,1,3,Saudi Arabia
+7559128,Incomplete,3,3,Saudi Arabia
+7559129,Incomplete,3,3,Saudi Arabia
+7559132,Incomplete,1,2,Saudi Arabia
+7559136,Incomplete,1,2,Saudi Arabia
+7559138,Incomplete,2,3,Saudi Arabia
+7559141,Incomplete,1,2,Saudi Arabia
+7559145,Pass Offside,1,2,Saudi Arabia
+7559148,Incomplete,1,2,Saudi Arabia
+7559151,Incomplete,1,3,Saudi Arabia
+7559153,Incomplete,3,3,Saudi Arabia
+7559155,Incomplete,1,2,Saudi Arabia
+7559158,Incomplete,2,3,Saudi Arabia
+7559160,Out,2,3,Saudi Arabia
+7559162,Incomplete,2,2,Saudi Arabia
+75402,Incomplete,2,2,Russia
+75403,Incomplete,2,3,Russia
+75404,Out,3,3,Russia
+75407,Incomplete,1,3,Russia
+754012,Incomplete,1,None,Russia
+754014,Incomplete,1,3,Russia
+754018,Incomplete,1,1,Russia
+754020,Incomplete,1,2,Russia
+754022,Out,1,2,Russia
+754024,Incomplete,1,2,Russia
+754026,Incomplete,3,None,Russia
+754027,Incomplete,3,3,Russia
+754030,Incomplete,1,3,Russia
+754032,Incomplete,2,3,Russia
+754034,Incomplete,2,3,Russia
+754035,Blocked,3,3,Russia
+754036,Incomplete,3,3,Russia
+754037,Incomplete,3,3,Russia
+754039,Incomplete,2,3,Russia
+754041,Off T,2,3,Russia
+754044,Incomplete,1,3,Russia
+754050,Incomplete,2,2,Russia
+754053,Incomplete,1,2,Russia
+754055,Incomplete,1,2,Russia
+754057,Incomplete,1,3,Russia
+754058,Blocked,2,3,Russia
+754059,Incomplete,3,3,Russia
+754061,Incomplete,2,3,Russia
+754065,Incomplete,1,3,Russia
+754067,Out,1,2,Russia
+754069,Incomplete,2,2,Russia
+754071,Incomplete,1,3,Russia
+754073,Out,2,3,Russia
+754076,Incomplete,2,3,Russia
+754077,Incomplete,2,3,Russia
+754080,Incomplete,2,3,Russia
+754081,Incomplete,3,3,Russia
+754083,Off T,3,3,Russia
+754085,Incomplete,1,3,Russia
+754087,Incomplete,1,2,Russia
+754089,Incomplete,1,2,Russia
+754090,Incomplete,1,2,Russia
+754092,Saved,2,3,Russia
+754094,Incomplete,2,1,Russia
+754095,Incomplete,1,1,Russia
+754098,Off T,1,3,Russia
+7540101,Out,1,2,Russia
+7540102,Incomplete,2,2,Russia
+7540103,Incomplete,2,3,Russia
+7540106,Out,2,2,Russia
+7540111,Incomplete,2,2,Russia
+7540113,Out,1,3,Russia
+7540114,Incomplete,1,2,Russia
+7540116,Incomplete,2,3,Russia
+7540118,Incomplete,2,2,Russia
+7540119,Incomplete,2,3,Russia
+7540121,Out,2,3,Russia
+7540125,Incomplete,1,1,Russia
+7540126,Incomplete,1,2,Russia
+7540128,Blocked,2,3,Russia
+7540129,Incomplete,3,3,Russia
+7540131,Incomplete,1,2,Russia
+7540133,Incomplete,1,2,Russia
+7540137,Incomplete,1,2,Russia
+7540140,Off T,2,3,Russia
+7540142,Incomplete,2,3,Russia
+7540147,Incomplete,1,3,Russia
+7540148,Incomplete,3,3,Russia
+7540149,Off T,3,3,Russia
+7540151,Incomplete,2,3,Russia
+7540153,Incomplete,3,3,Russia
+7540154,Out,3,3,Russia
+7540156,Off T,2,3,Russia
+7540159,Incomplete,1,3,Russia
+7540160,Goal,3,3,Russia
+7540163,Incomplete,2,2,Russia
+7540164,Incomplete,2,3,Russia
+7540165,Incomplete,3,3,Russia
+7540167,Incomplete,1,2,Russia
+7540169,Incomplete,2,2,Russia
+7540171,Incomplete,1,2,Russia
+7540173,Incomplete,2,2,Russia
+7540175,Incomplete,2,2,Russia
+7540177,Incomplete,2,3,Russia
+7540180,Incomplete,1,2,Russia
+7540182,Incomplete,2,3,Russia
+7540185,Incomplete,1,1,Russia
+7540187,Blocked,3,3,Russia
+7540190,Off T,1,3,Russia
+7540195,Incomplete,1,3,Russia
+7540197,Incomplete,2,2,Russia
+7540198,Blocked,2,2,Russia
+7540199,Incomplete,2,3,Russia
+75784,Incomplete,1,2,Uruguay
+75785,Incomplete,2,2,Uruguay
+75787,Incomplete,2,2,Uruguay
+75789,Incomplete,1,1,Uruguay
+757810,Incomplete,1,3,Uruguay
+757811,Incomplete,3,3,Uruguay
+757815,Incomplete,2,3,Uruguay
+757817,Incomplete,1,2,Uruguay
+757819,Incomplete,2,3,Uruguay
+757821,Incomplete,2,2,Uruguay
+757822,Incomplete,3,2,Uruguay
+757823,Saved,2,3,Uruguay
+757825,Incomplete,1,3,Uruguay
+757828,Out,1,2,Uruguay
+757830,Incomplete,1,3,Uruguay
+757831,Incomplete,3,3,Uruguay
+757832,Incomplete,3,3,Uruguay
+757834,Incomplete,1,2,Uruguay
+757835,Incomplete,2,3,Uruguay
+757838,Incomplete,2,3,Uruguay
+757842,Incomplete,2,2,Uruguay
+757843,Incomplete,2,3,Uruguay
+757845,Saved,1,3,Uruguay
+757848,Incomplete,1,3,Uruguay
+757850,Incomplete,1,3,Uruguay
+757852,Incomplete,2,2,Uruguay
+757854,Incomplete,1,2,Uruguay
+757855,Incomplete,2,3,Uruguay
+757857,Incomplete,1,2,Uruguay
+757863,Incomplete,1,3,Uruguay
+757865,Incomplete,2,3,Uruguay
+757867,Incomplete,2,3,Uruguay
+757870,Incomplete,1,2,Uruguay
+757872,Incomplete,1,3,Uruguay
+757873,Incomplete,1,3,Uruguay
+757875,Incomplete,1,2,Uruguay
+757876,Incomplete,2,3,Uruguay
+757879,Incomplete,1,3,Uruguay
+757880,Incomplete,3,2,Uruguay
+757881,Incomplete,2,3,Uruguay
+757883,Incomplete,1,3,Uruguay
+757885,Incomplete,1,1,Uruguay
+757886,Incomplete,1,3,Uruguay
+757888,Incomplete,1,2,Uruguay
+757890,Incomplete,1,2,Uruguay
+757892,Pass Offside,2,3,Uruguay
+757894,Blocked,2,3,Uruguay
+757895,Incomplete,2,3,Uruguay
+757897,Incomplete,1,2,Uruguay
+757899,Incomplete,1,2,Uruguay
+7578101,Incomplete,1,1,Uruguay
+7578103,Incomplete,1,1,Uruguay
+7578104,Out,1,3,Uruguay
+7578107,Incomplete,1,2,Uruguay
+7578109,Incomplete,1,2,Uruguay
+7578111,Incomplete,1,3,Uruguay
+7578112,Out,3,3,Uruguay
+7578114,Incomplete,1,2,Uruguay
+7578116,Out,2,3,Uruguay
+7578118,Incomplete,2,2,Uruguay
+7578120,Incomplete,1,3,Uruguay
+7578123,Off T,1,3,Uruguay
+7578124,Incomplete,1,2,Uruguay
+7578126,Incomplete,2,3,Uruguay
+7578129,Incomplete,2,2,Uruguay
+7578130,Incomplete,2,3,Uruguay
+7578133,Incomplete,1,2,Uruguay
+7578135,Incomplete,1,2,Uruguay
+7578138,Incomplete,1,3,Uruguay
+7578142,Incomplete,1,3,Uruguay
+7578144,Incomplete,1,2,Uruguay
+7578146,Incomplete,1,3,Uruguay
+7578148,Incomplete,1,2,Uruguay
+7578149,Incomplete,1,3,Uruguay
+7578152,Incomplete,1,3,Uruguay
+7578153,Incomplete,3,3,Uruguay
+7578155,Saved,1,3,Uruguay
+7578158,Incomplete,1,2,Uruguay
+7578161,Incomplete,1,1,Uruguay
+7578163,Incomplete,1,2,Uruguay
+7578164,Incomplete,1,3,Uruguay
+7578167,Incomplete,1,3,Uruguay
+7578168,Incomplete,3,3,Uruguay
+7578170,Blocked,3,3,Uruguay
+7578175,Incomplete,1,2,Uruguay
+7578177,Incomplete,1,2,Uruguay
+7578181,Incomplete,2,2,Uruguay
+7578184,Incomplete,2,3,Uruguay
+7578186,Blocked,3,3,Uruguay

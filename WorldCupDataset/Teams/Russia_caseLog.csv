@@ -1,0 +1,467 @@
+caseID,result,start_Zone,end_Zone,opponent
+75823,Incomplete,1,1,Spain
+75824,Incomplete,1,2,Spain
+75826,Out,2,2,Spain
+75828,Incomplete,1,2,Spain
+758210,Incomplete,1,1,Spain
+758211,Incomplete,1,3,Spain
+758212,Blocked,3,3,Spain
+758213,Incomplete,3,3,Spain
+758216,Incomplete,1,1,Spain
+758218,Incomplete,2,3,Spain
+758220,Incomplete,1,3,Spain
+758222,Incomplete,1,2,Spain
+758225,Pass Offside,2,3,Spain
+758227,Incomplete,2,3,Spain
+758228,Off T,3,3,Spain
+758230,Incomplete,2,3,Spain
+758233,Out,1,1,Spain
+758235,Incomplete,1,2,Spain
+758237,Incomplete,2,3,Spain
+758239,Incomplete,2,2,Spain
+758241,Incomplete,1,2,Spain
+758243,Incomplete,3,3,Spain
+758246,Incomplete,1,1,Spain
+758247,Incomplete,1,3,Spain
+758248,Incomplete,2,3,Spain
+758250,Incomplete,3,3,Spain
+758252,Incomplete,3,None,Spain
+758254,Incomplete,2,3,Spain
+758255,Incomplete,3,3,Spain
+758257,Incomplete,2,3,Spain
+758260,Incomplete,1,2,Spain
+758262,Off T,3,3,Spain
+758264,Incomplete,1,2,Spain
+758266,Incomplete,1,2,Spain
+758267,Incomplete,2,3,Spain
+758268,Blocked,3,3,Spain
+758269,Goal,3,3,Spain
+758271,Incomplete,1,1,Spain
+758272,Incomplete,1,2,Spain
+758273,Incomplete,2,2,Spain
+758279,Incomplete,3,3,Spain
+758281,Out,1,2,Spain
+758283,Incomplete,2,3,Spain
+758285,Incomplete,3,3,Spain
+758288,Out,3,3,Spain
+758294,Incomplete,1,3,Spain
+758298,Incomplete,1,1,Spain
+758299,Incomplete,1,3,Spain
+7582100,Incomplete,3,3,Spain
+7582103,Incomplete,1,3,Spain
+7582106,Incomplete,1,2,Spain
+7582107,Out,2,3,Spain
+7582110,Incomplete,1,3,Spain
+7582112,Incomplete,2,2,Spain
+7582114,Incomplete,1,2,Spain
+7582117,Incomplete,1,2,Spain
+7582120,Out,2,2,Spain
+7582124,Out,1,3,Spain
+7582127,Incomplete,1,2,Spain
+7582132,Incomplete,1,2,Spain
+7582141,Incomplete,1,3,Spain
+7582143,Incomplete,2,3,Spain
+7582145,Incomplete,3,3,Spain
+7582147,Incomplete,1,3,Spain
+7582149,Blocked,2,3,Spain
+7582153,Out,1,2,Spain
+7582155,Incomplete,1,2,Spain
+7582157,Incomplete,1,2,Spain
+7582159,Incomplete,1,1,Spain
+7582162,Out,1,3,Spain
+7582164,Out,2,3,Spain
+7582166,Incomplete,1,3,Spain
+7582170,Incomplete,1,2,Spain
+7582174,Incomplete,1,3,Spain
+7582175,Incomplete,2,3,Spain
+7582177,Incomplete,3,3,Spain
+7582179,Incomplete,1,2,Spain
+7582181,Out,2,3,Spain
+7582186,Incomplete,1,2,Spain
+7582189,Incomplete,1,3,Spain
+7582190,Incomplete,3,3,Spain
+7582191,Incomplete,3,3,Spain
+7582193,Incomplete,1,3,Spain
+7582194,Incomplete,3,3,Spain
+7582195,Blocked,3,1,Spain
+7582197,Incomplete,1,3,Spain
+7582200,Incomplete,1,2,Spain
+7582201,Incomplete,3,3,Spain
+7582204,Goal,3,3,Spain
+7582206,Goal,3,3,Spain
+7582208,Goal,3,3,Spain
+7582210,Goal,3,3,Spain
+75582,Out,2,3,Uruguay
+75584,Incomplete,1,3,Uruguay
+75586,Out,2,2,Uruguay
+75588,Out,2,3,Uruguay
+755813,Incomplete,2,3,Uruguay
+755814,Incomplete,3,1,Uruguay
+755816,Incomplete,3,3,Uruguay
+755817,Saved,3,3,Uruguay
+755818,Incomplete,3,3,Uruguay
+755820,Incomplete,1,2,Uruguay
+755822,Incomplete,1,2,Uruguay
+755826,Incomplete,2,2,Uruguay
+755828,Incomplete,2,3,Uruguay
+755829,Incomplete,3,3,Uruguay
+755832,Incomplete,1,3,Uruguay
+755833,Incomplete,2,3,Uruguay
+755839,Out,2,3,Uruguay
+755841,Incomplete,2,3,Uruguay
+755843,Pass Offside,2,3,Uruguay
+755845,Incomplete,2,3,Uruguay
+755847,Incomplete,2,1,Uruguay
+755849,Out,1,3,Uruguay
+755850,Incomplete,3,3,Uruguay
+755851,Out,3,3,Uruguay
+755853,Incomplete,2,2,Uruguay
+755855,Incomplete,1,3,Uruguay
+755857,Incomplete,1,3,Uruguay
+755859,Incomplete,1,2,Uruguay
+755862,Incomplete,1,2,Uruguay
+755864,Incomplete,2,3,Uruguay
+755865,Incomplete,3,3,Uruguay
+755868,Pass Offside,1,3,Uruguay
+755870,Out,2,3,Uruguay
+755872,Incomplete,2,2,Uruguay
+755874,Incomplete,1,3,Uruguay
+755876,Incomplete,2,3,Uruguay
+755880,Incomplete,1,2,Uruguay
+755882,Incomplete,1,2,Uruguay
+755884,Incomplete,1,1,Uruguay
+755886,Incomplete,1,3,Uruguay
+755888,Incomplete,1,3,Uruguay
+755889,Out,3,3,Uruguay
+755891,Incomplete,1,3,Uruguay
+755893,Incomplete,1,3,Uruguay
+755895,Out,3,3,Uruguay
+755897,Incomplete,3,3,Uruguay
+755899,Incomplete,1,3,Uruguay
+7558101,Out,1,3,Uruguay
+7558103,Incomplete,2,2,Uruguay
+7558107,Incomplete,2,3,Uruguay
+7558108,Incomplete,3,3,Uruguay
+7558111,Incomplete,1,3,Uruguay
+7558113,Incomplete,1,2,Uruguay
+7558115,Incomplete,1,3,Uruguay
+7558117,Blocked,2,3,Uruguay
+7558118,Incomplete,1,3,Uruguay
+7558120,Incomplete,2,3,Uruguay
+7558122,Off T,3,3,Uruguay
+7558125,Incomplete,1,3,Uruguay
+7558128,Incomplete,1,2,Uruguay
+7558129,Incomplete,2,3,Uruguay
+7558130,Incomplete,3,3,Uruguay
+7558133,Out,1,1,Uruguay
+7558136,Incomplete,2,2,Uruguay
+7558137,Incomplete,2,2,Uruguay
+7558139,Incomplete,2,3,Uruguay
+7558142,Incomplete,1,3,Uruguay
+7558144,Incomplete,1,3,Uruguay
+7558147,Incomplete,1,3,Uruguay
+7558148,Out,3,3,Uruguay
+7558150,Incomplete,2,3,Uruguay
+7558153,Incomplete,2,None,Uruguay
+7558155,Incomplete,1,2,Uruguay
+7558157,Incomplete,2,3,Uruguay
+7558158,Incomplete,3,3,Uruguay
+75405,Incomplete,1,2,Egypt
+75406,Incomplete,3,3,Egypt
+75408,Incomplete,2,2,Egypt
+75409,Blocked,2,3,Egypt
+754010,Saved,3,3,Egypt
+754013,Off T,3,3,Egypt
+754015,Incomplete,1,3,Egypt
+754016,Incomplete,3,3,Egypt
+754017,Out,3,3,Egypt
+754019,Incomplete,3,3,Egypt
+754021,Out,2,3,Egypt
+754023,Incomplete,2,3,Egypt
+754025,Incomplete,2,3,Egypt
+754028,Incomplete,1,3,Egypt
+754029,Incomplete,3,3,Egypt
+754031,Incomplete,1,2,Egypt
+754033,Blocked,1,3,Egypt
+754038,Incomplete,1,2,Egypt
+754040,Incomplete,1,2,Egypt
+754042,Incomplete,2,3,Egypt
+754043,Incomplete,3,3,Egypt
+754045,Off T,3,3,Egypt
+754046,Incomplete,2,1,Egypt
+754047,Incomplete,1,3,Egypt
+754048,Incomplete,3,3,Egypt
+754049,Incomplete,3,3,Egypt
+754051,Incomplete,2,3,Egypt
+754052,Incomplete,3,3,Egypt
+754054,Incomplete,1,3,Egypt
+754056,Off T,2,3,Egypt
+754060,Incomplete,1,2,Egypt
+754062,Incomplete,1,3,Egypt
+754064,Incomplete,2,3,Egypt
+754066,Out,1,3,Egypt
+754068,Incomplete,2,2,Egypt
+754070,Incomplete,1,3,Egypt
+754072,Incomplete,1,2,Egypt
+754074,Incomplete,1,2,Egypt
+754075,Incomplete,2,2,Egypt
+754078,Incomplete,1,2,Egypt
+754079,Incomplete,2,2,Egypt
+754082,Out,1,2,Egypt
+754084,Out,1,3,Egypt
+754086,Incomplete,1,3,Egypt
+754088,Out,2,3,Egypt
+754091,Incomplete,2,3,Egypt
+754093,Incomplete,1,2,Egypt
+754096,Incomplete,3,3,Egypt
+754097,Off T,3,3,Egypt
+754099,Incomplete,3,3,Egypt
+7540100,Incomplete,3,3,Egypt
+7540104,Incomplete,1,1,Egypt
+7540105,Incomplete,1,2,Egypt
+7540107,Out,2,2,Egypt
+7540108,Incomplete,2,2,Egypt
+7540110,Blocked,1,3,Egypt
+7540112,Incomplete,2,3,Egypt
+7540115,Incomplete,2,2,Egypt
+7540117,Out,1,2,Egypt
+7540120,Out,2,2,Egypt
+7540122,Incomplete,1,3,Egypt
+7540123,Incomplete,3,3,Egypt
+7540124,Incomplete,3,3,Egypt
+7540127,Incomplete,2,2,Egypt
+7540130,Out,1,3,Egypt
+7540132,Incomplete,2,3,Egypt
+7540134,Incomplete,2,2,Egypt
+7540135,Goal,3,3,Egypt
+7540136,Incomplete,1,3,Egypt
+7540138,Incomplete,2,2,Egypt
+7540139,Goal,2,3,Egypt
+7540141,Incomplete,1,2,Egypt
+7540143,Incomplete,1,2,Egypt
+7540144,Incomplete,2,3,Egypt
+7540145,Incomplete,3,3,Egypt
+7540146,Incomplete,2,3,Egypt
+7540150,Incomplete,1,2,Egypt
+7540152,Incomplete,2,1,Egypt
+7540155,Incomplete,1,2,Egypt
+7540157,Incomplete,1,3,Egypt
+7540158,Incomplete,2,3,Egypt
+7540161,Incomplete,3,3,Egypt
+7540162,Saved,3,3,Egypt
+7540166,Incomplete,3,3,Egypt
+7540168,Incomplete,2,2,Egypt
+7540170,Incomplete,2,3,Egypt
+7540172,Out,2,3,Egypt
+7540174,Incomplete,2,2,Egypt
+7540176,Incomplete,2,2,Egypt
+7540178,Incomplete,1,2,Egypt
+7540179,Incomplete,3,3,Egypt
+7540181,Incomplete,2,2,Egypt
+7540183,Incomplete,1,3,Egypt
+7540186,Incomplete,3,3,Egypt
+7540188,Incomplete,2,3,Egypt
+7540189,Incomplete,3,3,Egypt
+7540192,Incomplete,3,3,Egypt
+7540194,Incomplete,3,3,Egypt
+7540196,Incomplete,1,2,Egypt
+7540200,Incomplete,1,3,Egypt
+75254,Incomplete,1,2,Saudi Arabia
+75255,Incomplete,2,3,Saudi Arabia
+75256,Incomplete,3,3,Saudi Arabia
+75258,Incomplete,2,3,Saudi Arabia
+75259,Incomplete,3,3,Saudi Arabia
+752514,Incomplete,2,3,Saudi Arabia
+752519,Blocked,1,3,Saudi Arabia
+752520,Incomplete,3,3,Saudi Arabia
+752521,Incomplete,3,3,Saudi Arabia
+752522,Incomplete,2,3,Saudi Arabia
+752524,Incomplete,2,3,Saudi Arabia
+752526,Blocked,3,3,Saudi Arabia
+752527,Incomplete,3,3,Saudi Arabia
+752529,Incomplete,1,2,Saudi Arabia
+752530,Blocked,2,3,Saudi Arabia
+752531,Goal,3,3,Saudi Arabia
+752533,Pass Offside,2,3,Saudi Arabia
+752534,Incomplete,2,3,Saudi Arabia
+752535,Incomplete,3,3,Saudi Arabia
+752537,Pass Offside,2,3,Saudi Arabia
+752539,Out,1,3,Saudi Arabia
+752543,Incomplete,2,2,Saudi Arabia
+752544,Incomplete,2,3,Saudi Arabia
+752548,Incomplete,1,2,Saudi Arabia
+752550,Incomplete,2,3,Saudi Arabia
+752553,Incomplete,1,3,Saudi Arabia
+752557,Incomplete,1,3,Saudi Arabia
+752560,Incomplete,1,3,Saudi Arabia
+752561,Incomplete,3,3,Saudi Arabia
+752563,Pass Offside,2,3,Saudi Arabia
+752566,Out,1,3,Saudi Arabia
+752568,Incomplete,1,2,Saudi Arabia
+752571,Incomplete,2,3,Saudi Arabia
+752573,Incomplete,3,2,Saudi Arabia
+752575,Incomplete,1,2,Saudi Arabia
+752577,Incomplete,1,3,Saudi Arabia
+752578,Incomplete,3,None,Saudi Arabia
+752580,Out,2,3,Saudi Arabia
+752583,Incomplete,2,3,Saudi Arabia
+752586,Out,2,2,Saudi Arabia
+752588,Incomplete,2,3,Saudi Arabia
+752590,Goal,1,3,Saudi Arabia
+752592,Incomplete,2,3,Saudi Arabia
+752596,Incomplete,2,1,Saudi Arabia
+752597,Incomplete,2,3,Saudi Arabia
+752599,Incomplete,1,2,Saudi Arabia
+7525102,Incomplete,1,2,Saudi Arabia
+7525104,Incomplete,2,3,Saudi Arabia
+7525106,Incomplete,2,3,Saudi Arabia
+7525107,Incomplete,3,3,Saudi Arabia
+7525110,Incomplete,1,3,Saudi Arabia
+7525111,Incomplete,3,3,Saudi Arabia
+7525113,Off T,2,3,Saudi Arabia
+7525116,Incomplete,2,2,Saudi Arabia
+7525118,Incomplete,1,3,Saudi Arabia
+7525120,Incomplete,2,2,Saudi Arabia
+7525122,Incomplete,2,2,Saudi Arabia
+7525123,Incomplete,2,2,Saudi Arabia
+7525125,Incomplete,1,3,Saudi Arabia
+7525127,Incomplete,2,None,Saudi Arabia
+7525131,Incomplete,1,3,Saudi Arabia
+7525133,Incomplete,3,3,Saudi Arabia
+7525137,Blocked,2,3,Saudi Arabia
+7525139,Incomplete,2,3,Saudi Arabia
+7525141,Saved,2,3,Saudi Arabia
+7525145,Incomplete,2,1,Saudi Arabia
+7525147,Saved,1,3,Saudi Arabia
+7525148,Out,3,3,Saudi Arabia
+7525150,Incomplete,3,3,Saudi Arabia
+7525152,Incomplete,3,3,Saudi Arabia
+7525154,Out,1,2,Saudi Arabia
+7525156,Incomplete,2,2,Saudi Arabia
+7525157,Goal,3,3,Saudi Arabia
+7525159,Incomplete,1,2,Saudi Arabia
+7525161,Incomplete,1,2,Saudi Arabia
+7525163,Incomplete,2,3,Saudi Arabia
+7525164,Incomplete,3,3,Saudi Arabia
+7525165,Off T,3,3,Saudi Arabia
+7525168,Incomplete,1,2,Saudi Arabia
+7525169,Incomplete,2,3,Saudi Arabia
+7525174,Incomplete,3,2,Saudi Arabia
+7525176,Off T,2,3,Saudi Arabia
+7525178,Incomplete,2,3,Saudi Arabia
+7525179,Incomplete,3,3,Saudi Arabia
+7525180,Incomplete,3,3,Saudi Arabia
+7525182,Incomplete,1,2,Saudi Arabia
+7525184,Incomplete,1,3,Saudi Arabia
+7525185,Incomplete,3,3,Saudi Arabia
+7525187,Goal,2,3,Saudi Arabia
+7525190,Incomplete,2,3,Saudi Arabia
+7525191,Goal,3,3,Saudi Arabia
+86523,Incomplete,2,2,Croatia
+86524,Incomplete,3,3,Croatia
+86526,Blocked,1,3,Croatia
+86528,Out,2,2,Croatia
+865210,Incomplete,2,3,Croatia
+865212,Blocked,3,3,Croatia
+865213,Out,3,3,Croatia
+865216,Incomplete,1,3,Croatia
+865219,Incomplete,1,2,Croatia
+865223,Incomplete,1,2,Croatia
+865225,Out,2,3,Croatia
+865227,Incomplete,1,3,Croatia
+865231,Incomplete,1,3,Croatia
+865233,Incomplete,2,2,Croatia
+865235,Incomplete,2,2,Croatia
+865236,Incomplete,1,3,Croatia
+865238,Out,2,3,Croatia
+865240,Incomplete,3,3,Croatia
+865242,Incomplete,1,2,Croatia
+865245,Incomplete,2,2,Croatia
+865247,Incomplete,1,3,Croatia
+865249,Incomplete,1,2,Croatia
+865253,Incomplete,1,3,Croatia
+865254,Incomplete,3,3,Croatia
+865256,Incomplete,1,2,Croatia
+865258,Incomplete,2,3,Croatia
+865260,Goal,2,3,Croatia
+865263,Incomplete,2,3,Croatia
+865265,Incomplete,2,2,Croatia
+865266,Off T,2,3,Croatia
+865268,Incomplete,1,None,Croatia
+865269,Off T,2,3,Croatia
+865271,Incomplete,2,3,Croatia
+865273,Incomplete,2,2,Croatia
+865274,Incomplete,3,3,Croatia
+865277,Out,2,3,Croatia
+865279,Incomplete,1,2,Croatia
+865281,Out,2,2,Croatia
+865283,Incomplete,1,2,Croatia
+865285,Out,2,2,Croatia
+865288,Incomplete,1,3,Croatia
+865290,Incomplete,2,3,Croatia
+865293,Incomplete,1,None,Croatia
+865295,Incomplete,1,3,Croatia
+865297,Incomplete,2,2,Croatia
+865299,Incomplete,1,3,Croatia
+8652101,Injury Clearance,2,3,Croatia
+8652103,Incomplete,1,3,Croatia
+8652105,Incomplete,1,3,Croatia
+8652107,Incomplete,1,2,Croatia
+8652108,Out,3,2,Croatia
+8652110,Incomplete,3,3,Croatia
+8652112,Incomplete,3,3,Croatia
+8652113,Saved,3,3,Croatia
+8652118,Incomplete,1,2,Croatia
+8652119,Incomplete,2,3,Croatia
+8652121,Pass Offside,1,3,Croatia
+8652123,Incomplete,1,2,Croatia
+8652125,Incomplete,1,1,Croatia
+8652127,Off T,2,3,Croatia
+8652129,Out,2,2,Croatia
+8652131,Incomplete,1,3,Croatia
+8652133,Incomplete,2,3,Croatia
+8652135,Incomplete,2,2,Croatia
+8652138,Incomplete,1,3,Croatia
+8652141,Incomplete,1,3,Croatia
+8652143,Out,2,2,Croatia
+8652147,Incomplete,1,3,Croatia
+8652149,Incomplete,2,3,Croatia
+8652150,Incomplete,3,3,Croatia
+8652152,Incomplete,1,2,Croatia
+8652153,Incomplete,2,3,Croatia
+8652156,Incomplete,3,3,Croatia
+8652157,Incomplete,3,3,Croatia
+8652163,Saved,1,2,Croatia
+8652164,Incomplete,3,3,Croatia
+8652167,Incomplete,2,3,Croatia
+8652168,Incomplete,3,3,Croatia
+8652171,Incomplete,1,2,Croatia
+8652174,Incomplete,1,3,Croatia
+8652176,Incomplete,2,3,Croatia
+8652179,Incomplete,1,2,Croatia
+8652181,Incomplete,1,3,Croatia
+8652185,Incomplete,3,3,Croatia
+8652187,Incomplete,2,2,Croatia
+8652188,Incomplete,3,3,Croatia
+8652189,Incomplete,3,3,Croatia
+8652190,Off T,3,3,Croatia
+8652192,Incomplete,1,3,Croatia
+8652193,Incomplete,2,3,Croatia
+8652195,Incomplete,2,2,Croatia
+8652197,Incomplete,2,2,Croatia
+8652198,Incomplete,2,3,Croatia
+8652199,Incomplete,3,3,Croatia
+8652203,Incomplete,1,2,Croatia
+8652207,Incomplete,1,2,Croatia
+8652208,Incomplete,1,3,Croatia
+8652212,Incomplete,1,3,Croatia
+8652213,Saved,3,3,Croatia
+8652218,Incomplete,2,3,Croatia
+8652219,Goal,3,3,Croatia
+8652225,Saved,3,3,Croatia
+8652229,Incomplete,1,3,Croatia
+8652232,Saved,3,3,Croatia
+8652234,Goal,3,3,Croatia
+8652236,Off T,3,3,Croatia
+8652238,Goal,3,3,Croatia
+8652240,Goal,3,3,Croatia

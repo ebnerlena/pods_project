@@ -10,6 +10,14 @@
 - Wojciech Woszczek
 - Tim Schwabe
 
+## Content
+
+- [Pre: Open Stats Data Preprocessing (not used later)](./preprocessing_of_open-data.py)
+- [WorldCupDataset Analysis with some Visualizations](./wordcup_data_analysis.ipynb)
+- [WorldCupDataset Additional Preprocessing](./wordcup_data_preprocessing.ipynb)
+  - contains adding `startZone`, `endZone`
+  - filling `duration` None values with 0 and adjusting `endTime`
+
 ## Pitch Definition
 
 ![pitch axis definition](openstats_pitch_coordinates.png)

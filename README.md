@@ -20,7 +20,7 @@
 
 ## Pitch Definition
 
-![pitch axis definition](openstats_pitch_coordinates.png)
+![pitch axis definition](./docs/openstats_pitch_coordinates.png)
 
 ## Resources
 
